@@ -1,0 +1,13 @@
+C:\Users\Hiago\source\repos\SoccerApp\SoccerApp\bin\Debug\netcoreapp3.1\SoccerApp.exe
+C:\Users\Hiago\source\repos\SoccerApp\SoccerApp\bin\Debug\netcoreapp3.1\SoccerApp.deps.json
+C:\Users\Hiago\source\repos\SoccerApp\SoccerApp\bin\Debug\netcoreapp3.1\SoccerApp.runtimeconfig.json
+C:\Users\Hiago\source\repos\SoccerApp\SoccerApp\bin\Debug\netcoreapp3.1\SoccerApp.runtimeconfig.dev.json
+C:\Users\Hiago\source\repos\SoccerApp\SoccerApp\bin\Debug\netcoreapp3.1\SoccerApp.dll
+C:\Users\Hiago\source\repos\SoccerApp\SoccerApp\bin\Debug\netcoreapp3.1\SoccerApp.pdb
+C:\Users\Hiago\source\repos\SoccerApp\SoccerApp\obj\Debug\netcoreapp3.1\SoccerApp.csproj.AssemblyReference.cache
+C:\Users\Hiago\source\repos\SoccerApp\SoccerApp\obj\Debug\netcoreapp3.1\SoccerApp.AssemblyInfoInputs.cache
+C:\Users\Hiago\source\repos\SoccerApp\SoccerApp\obj\Debug\netcoreapp3.1\SoccerApp.AssemblyInfo.cs
+C:\Users\Hiago\source\repos\SoccerApp\SoccerApp\obj\Debug\netcoreapp3.1\SoccerApp.csproj.CoreCompileInputs.cache
+C:\Users\Hiago\source\repos\SoccerApp\SoccerApp\obj\Debug\netcoreapp3.1\SoccerApp.dll
+C:\Users\Hiago\source\repos\SoccerApp\SoccerApp\obj\Debug\netcoreapp3.1\SoccerApp.pdb
+C:\Users\Hiago\source\repos\SoccerApp\SoccerApp\obj\Debug\netcoreapp3.1\SoccerApp.genruntimeconfig.cache
